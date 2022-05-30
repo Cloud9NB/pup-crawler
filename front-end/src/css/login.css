@@ -1,0 +1,19 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+
+.gradient-custom {
+  background-image: url('../../public/pics-login/login-wallpaper.jpeg');
+  background-size: cover;
+}
+
+.card {
+  border-radius: 2rem;
+  opacity: 0.9;
+}
+
+.px-5:hover {
+  opacity: 0.3;
+}
+
+.fw-bold:hover {
+  opacity: 0.3;
+}

@@ -1,8 +1,8 @@
+import Login from "./Login";
+
 const App = () => {
   return (
-    <div className="App">
-      Test
-    </div>
+      <Login />
   );
 }
 
